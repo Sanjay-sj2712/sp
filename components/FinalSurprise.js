@@ -14,6 +14,10 @@ const messages = [
     duration: 5000,
   },
   {
+    text: "Inum naraiya memories iruku...naraiya photoes and videos, ellathayum add panna mudiyala",
+    duration: 8000,
+  },
+  {
     text: "Unaku vena naa pudikathavana aagirukalam, nee epovum enaku pudicha angel than",
     duration: 11000,
   },
