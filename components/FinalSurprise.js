@@ -14,7 +14,7 @@ const messages = [
     duration: 5000,
   },
   {
-    text: "Unaku vena naa pudikathavana aagirukalam, enaku nee enaku epovum enaku pudicha angel than",
+    text: "Unaku vena naa pudikathavana aagirukalam, nee epovum enaku pudicha angel than",
     duration: 11000,
   },
   {
@@ -38,7 +38,7 @@ const messages = [
     duration: 13000,
   },
   {
-    text: "Naa un petha parents um illa, nee petha kolanthayum illa epdi irunthalum accept panna...nee choose panra partner so...",
+    text: "Epdi irunthalum accept panna, Naa unna petha parents um illa, nee petha kolanthayum illa...nee choose panra partner so...",
     duration: 11000,
   },
   {
