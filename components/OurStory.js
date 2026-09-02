@@ -74,45 +74,45 @@ export default function OurStory() {
             fontStyle: "italic",
           }}
         >
-          &ldquo;Unaku ethume theriyathanu nee epovum kepa
+          &ldquo;Unaku ethume theriyathaanu nee epovum kepa
           <br />
-          Unmaya ve enaku theryala, oru relationship la epdi irukanumnu yarum solli tharathu illa          <br />
+          Unmaya ve enaku theriyala, oru relationship la epdi irukanumnu yarum solli tharathu illa          <br />
           <br />
-          Naa entha ponnayum pathathu illa avanga epdi nu purinjukitathu illa...enaku therinja ore ponnu yen priya than, naa unna pathuthana intha 8 years vazhanthan
-          <br />
-          <br />
-          Enna porutha vara yen priya enakaga enna venalum pannuva, romba caring ahh irupa, romba understanding ahh irupa ipdi than inthana varushama iruntha<br />
-          <br />
-          Enaku epdi irukanum na ipdi pata orunthiya romba nalla pathukanum nu nenachan...
+          Naa entha ponnayum pathathu illa avanga epdi nu palagi purinjukitathu illa...enaku therinja ore ponnu yen priya than, naa unna pathuthana intha 8 years vazhanthan
           <br />
           <br />
-          Ipo thidirnu un expectation ivlo adhigama aanathum..naa enna pannalum unaku satisfied ahh illa          <br />
+          Enna porutha vara yen priya enakaga enna venalum pannuva, romba caring ahh irupa, romba understanding ahh irupa ipdi than ithana varushama irunthan<br />
+          <br />
+          Enaku epdi irukum na ipdi pata orunthiya romba nalla pathukanum nu irukum...
+          <br />
+          <br />
+          Ipo thidirnu un expectation ivlo adhigama aagucha illa ivlo naal nee kaatatha vishayatha ipo kaatrathaalaya theriyala...naa enna pannalum unaku satisfied ahh illa          <br />
           <br />
           <br />
           Enoda expectations ku complete opposite ahh irukrathunala ennala handle panna mudiyala          <br />
           <br />
-          Nee sonna un friends sonnathellam correct, enaku than puriyala nu...but ellarum life um ore maari irukathu...ellaru love um ore maari irukathu...cinema, reels, friends ivanaga life la love epdi iruko apdi than irukanumnu illala...          <br />
+          Nee sonna un friends sonnathellam correctu, enaku than puriyala nu...but ellar life um ore maari irukathula...ellaru love um ore maari irukathula...cinema, reels, friends ivanaga life la love epdi iruko apdi than irukanumnu illala...Love ovoruthanga character ahh vachuthan play aagum          <br />
           <br />
           <br />
           Ennala ellathayum sagichaka mudiyum, ellathayum meeri kadaisi vara nikka mudiyum...yaar enna sonnalum enna pesunalum...ennala engeyum unna vitu kudukaama iruka mudiyum...enna nadanthalum oruthavangalukaga ennala epovum iruka mudiyum, intha purithal and anbu than enna porutha vara periya love, intha maari vishayam ellarutayum irukathu...
           <br />
           <br />
-          Life epovume namma ehtirpakra maari irukathu..ithu matum itha vida naraiya face pannanum odanum, ellathayum face pannitu than love um pannanum...happy ah vum irukanum...almost most of the lives ipdi than iruku.
+          Life epovume namma ethirpakra maari irukathu..ithu matum illa, itha vida naraiya face pannanum, odanum, ellathayum face pannitu than love um pannanum...happy ah vum irukanum...almost most of the lives ipdi than iruku.
           <br/>
           <br/>
-          Intha maari than naa 8 varushama irunthan apo pudicha enna ipo pudikama poiducha?...Enaku theriyum nee naraiya maaritanu athuketha maari naanum maara start pannirukan but you can't accept that pace!
+          Intha maari thana naa 8 varushama irunthan apo pudicha enna ipo pudikama poiducha?...Apo accept pannan epovume panna mudiyathu nu solluva crtu than, but enna avlo pudicha naala than athalam un kannuku theriyala, Enaku theriyum nee naraiya maaritanu athuketha maari naanum maara start pannirukan but you can't accept that pace!
           <br />
           <br />
-          Yen kooda irunthaa nee happy ah iruka mudiyathunu ivlo yosikrala...yen kooda  happy ahh iruntha moments la unnaku nyabagam varalaya...illa nee happy ahh ve illanu feel panriya...
+          Yen kooda irunthaa nee happy ah iruka mudiyathunu ivlo yosikrala...yen kooda happy ahh iruntha moments la unnaku nyabagam varalaya...illa nee happy ahh ve illanu feel panriya...
           <br />
           <br />
           <br />
           <em style={{ color: "#c9748a" }}>Unmaya yosichi sollu...does my absence affect you?</em>
           <br />
-          Ena ennala inum accept pannika mudiyala 8 years ah naa aasapata, kanavu kanda yen life enaku illanu nenacha
+          Enaa ennala inum accept pannika mudiyala 8 years ah naa aasapata, kanavu kanda yen life enaku illanu nenachale life la thothutom nu thonuthu.
           <br />
           <br />
-          I think yennoda old enaku thirumba vantha maari iruku...back to normal...ena..nee solluvala feeling adhigamachuna...azhuga varathu oru smile varum nu apdi than iruku.
+          I think yennoda old life enaku thirumba vantha maari iruku...back to normal...enaa..nee solluvala, oru level mela feelings adhigamachuna...azhuga varathu smile than varum nu, apdi than iruku.
 
         </motion.h2>
         <p

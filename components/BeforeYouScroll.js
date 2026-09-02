@@ -73,7 +73,7 @@ export default function BeforeYouScroll() {
           En life la ye naa adhigama nesichachu unna matum than...nee epdi aanalum, enna pannalum veruka mudiyala.
           <br />
           <br />
-          Yen! enaa nee ennaval. but
+          Yen! enaa you're mine. but
           <br />
           <br />
           Ennaal mudintha varai un vaazhkayil irunthu tholaivil iruka muyarchikiren
@@ -82,7 +82,7 @@ export default function BeforeYouScroll() {
           Unnai thedi varum antha pazhakathai mella vituvidugiren
           <br />
           <br />
-          Ini unnai paarlka vendum endra aasaiyai adakikolgiren
+          Ini unnai paarka vendum endra aasaiyai adakikolgiren
           <br />
           <br />
           Ithai ellam seivathaal enaku un mel kaadhal illai endru matum ennividathe!

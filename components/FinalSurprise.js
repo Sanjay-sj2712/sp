@@ -34,6 +34,10 @@ const messages = [
     duration: 13000,
   },
   {
+    text: "But....ipo",
+    duration: 6000,
+  },
+  {
     text: "Naa selfish than, ennala mulusa laa mara mudiyathu but unnakaga kandippa naraiya mathipan but athuvum odane mudiyathu, konja konjama change pannikran",
     duration: 13000,
   },
@@ -46,7 +50,7 @@ const messages = [
     duration: 11000,
   },
   {
-    text: "Nalla Yosichu Sollu...Ellame un istam than.",
+    text: "Nalla Porumaya Yosichu Sollu... Ellame un istam than.",
     duration: 9000,
   },
 ];
@@ -453,7 +457,7 @@ export default function FinalSurprise() {
                     marginBottom: 40,
                   }}
                 >
-                  Can we start again? or Can we have a break and start again?
+                  Can we start again? Unaku unmayaave naa okk na!
                 </p>
                 <div style={{ display: "flex", gap: 16, justifyContent: "center" }}>
                   <motion.button
@@ -570,6 +574,8 @@ export default function FinalSurprise() {
                   }}
                 >
                   That&apos;s okay ❤️
+                  <br />
+                  Unaku pudicha life la create panni happy ah iru!  
                   <br />
                   Take care : )
                 </p>
