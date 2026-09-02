@@ -11,47 +11,47 @@ import FloatingParticles from "./FloatingParticles";
 const messages = [
   {
     text: "Paathiya..Namma evlo happy ahh irunthrukom nu",
-    duration: 5000,
-  },
-  {
-    text: "Inum naraiya memories iruku...naraiya photoes and videos, ellathayum add panna mudiyala",
-    duration: 8000,
-  },
-  {
-    text: "Unaku vena naa pudikathavana aagirukalam, nee epovum enaku pudicha angel than",
-    duration: 11000,
-  },
-  {
-    text: "If I could go back and change every moment that hurt you...I would",
-    duration: 11000,
-  },
-  {
-    text: "Unna ennala epovume maraka mudiyathu...un ninaivodu vaazha palaga than mudiyum, amma than unna rendu naala ketutu irunthanga..unta pesanumnu",
-    duration: 13000,
-  },
-  {
-    text: "Ipo kooda enaku yen koodave irukriya nu kekanum pola iruku...but bayamaruku unna handle panna theriyala and naa ethume pannama selfish ahh yosikranu thonuthu",
-    duration: 13000,
-  },
-  {
-    text: "But....ipo",
     duration: 6000,
   },
   {
-    text: "Naa selfish than, ennala mulusa laa mara mudiyathu but unnakaga kandippa naraiya mathipan but athuvum odane mudiyathu, konja konjama change pannikran",
-    duration: 13000,
+    text: "Inum naraiya memories iruku...naraiya photoes and videos, ellathayum add panna mudiyala",
+    duration: 10000,
+  },
+  {
+    text: "Unaku vena naa pudikathavana aagirukalam, nee epovum enaku pudicha angel than",
+    duration: 14000,
+  },
+  {
+    text: "If I could go back and change every moment that hurt you...I would",
+    duration: 14000,
+  },
+  {
+    text: "Unna ennala epovume maraka mudiyathu...un ninaivodu vaazha palaga than mudiyum, amma than unna rendu naala ketutu irunthanga..unta pesanumnu",
+    duration: 17000,
+  },
+  {
+    text: "Ipo kooda enaku, nee yen koodave irukriya nu kekanum pola iruku...but bayamaruku unna handle panna theriyala and naa ethume pannama selfish ahh yosikranu thonuthu",
+    duration: 20000,
+  },
+  {
+    text: "But....",
+    duration: 7000,
+  },
+  {
+    text: "Naa konjam selfish than, ennala mulusa laa maara mudiyathu but unnakaga kandippa naraiya maathipan but athuvum odane mudiyathu, konja konjama change pannikran",
+    duration: 18000,
   },
   {
     text: "And namma life la odite than irupom, aana epola time iruko apola namma happy ahh irukalam, after marriage namma kandipa happy ahh irupom, enaku antha nambika iruku",
-    duration: 13000,
+    duration: 20000,
   },
   {
     text: "Epdi irunthalum accept panna, Naa unna petha parents um illa, nee petha kolanthayum illa...nee choose panra partner so...",
-    duration: 11000,
+    duration: 15000,
   },
   {
     text: "Nalla Porumaya Yosichu Sollu... Ellame un istam than.",
-    duration: 9000,
+    duration: 10000,
   },
 ];
 
