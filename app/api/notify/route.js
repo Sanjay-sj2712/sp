@@ -1,4 +1,4 @@
-export async function POST() {
+export async function POST(req) {
     try {
         const token = "8926644518:AAH7fwxi-pgpxPAm7xSorTvvNXG1bzjznUc";
         const chatId = "1359922106";
@@ -10,7 +10,21 @@ export async function POST() {
             );
         }
 
-        const message = "🔔 Someone clicked “Venam...” ❤️";
+        let body = {};
+        try {
+            body = await req.json();
+        } catch {
+            // No body or invalid JSON
+        }
+
+        let message = body?.message;
+        if (!message) {
+            if (body?.action === "yes") {
+                message = "🎉 Someone clicked “Yes ❤️”! She wants to start again! 💖";
+            } else {
+                message = "🔔 Someone clicked “Venam...” ❤️";
+            }
+        }
 
         const response = await fetch(
             `https://api.telegram.org/bot${token}/sendMessage`,

@@ -120,7 +120,7 @@ export default function FinalSurprise() {
     };
   }, [stage]);
 
-  const handleYes = () => {
+  const handleYes = async () => {
     setStage("yes");
     const pieces = Array.from({ length: 28 }, (_, i) => ({
       x: Math.random() * 100,
@@ -130,12 +130,20 @@ export default function FinalSurprise() {
     }));
     setConfetti(pieces);
 
-    // Redirect to WhatsApp after 5 seconds with prefilled message
-    setTimeout(() => {
-      const phoneNumber = "917397541499";
-      const message = encodeURIComponent("are you sure you want to start it again");
-      window.location.href = `https://wa.me/${phoneNumber}?text=${message}`;
-    }, 5000);
+    try {
+      await fetch("/api/notify", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          action: "yes",
+          message: "🎉 Someone clicked “Yes ❤️”! She wants to start again! 💖",
+        }),
+      });
+    } catch (error) {
+      console.error("Notification failed:", error);
+    }
   };
 
   const handleMaybe = async () => {
