@@ -218,6 +218,13 @@ export const allPhotos = [
     aspect: "square",
   },
   {
+    src: "/WhatsApp Image 2026-09-01 at 9.29.27 PM (1).jpeg",
+    caption: "[ADD CAPTION]",
+    date: "[ADD DATE]",
+    category: ["gallery", "surprise"],
+    aspect: "landscape",
+  },
+  {
     src: "/WhatsApp Image 2026-09-01 at 9.29.28 PM (2).jpeg",
     caption: "[ADD CAPTION]",
     date: "[ADD DATE]",
@@ -287,20 +294,6 @@ export const allPhotos = [
     category: ["gallery", "surprise"],
     aspect: "square",
   },
-  {
-    src: "/WhatsApp Image 2026-09-01 at 9.29.27 PM (1).jpeg",
-    caption: "[ADD CAPTION]",
-    date: "[ADD DATE]",
-    category: ["gallery", "surprise"],
-    aspect: "landscape",
-  },
-  // {
-  //   src: "/WhatsApp Image 2026-09-01 at 9.29.28 PM.jpeg",
-  //   caption: "[ADD CAPTION]",
-  //   date: "[ADD DATE]",
-  //   category: ["gallery", "surprise"],
-  //   aspect: "landscape",
-  // },
   {
     src: "/WhatsApp Image 2026-09-01 at 9.29.28 PM (1).jpeg",
     caption: "[ADD CAPTION]",
